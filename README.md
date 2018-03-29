@@ -39,7 +39,7 @@ When this is done, the corrected long reads are stored in `<outPrefix>_oea.fasta
 ## Pulication
 CoLoRMap: Correcting Long Reads by Mapping short reads<br/>
 *Haghshenas E, Hach F, Sahinalp SC, Chauve C*<br/>
-Accepted in ECCB 2016, to appear in Bioinformatics
+Bioinformatics. 2016 Sep 1;32(17):i545-i551. doi: 10.1093/bioinformatics/btw463
 
 ## Contact
 Please report problems and bugs on [issues page](https://github.com/sfu-compbio/colormap/issues). Otherwise, contact `ehaghshe[at]sfu[dot]ca`
